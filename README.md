@@ -14,7 +14,7 @@ This repository contains the HTML code for Harikrishna Kuruva's resume. The resu
 
 ## Preview
 
-![Resume Preview](path/to/your/image.jpg)
+![Resume Preview]("file:///C:/Users/Admin/Downloads/Resume--Attacktic-Labs-Assgin/index.html")
 
 ## Features
 
